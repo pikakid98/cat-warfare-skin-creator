@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Cat Warfare Skin Creator
+#### [< Return To Main Page](https://pikakid98.github.io/)
 
-You can use the [editor on GitHub](https://github.com/pikakid98/cat-warfare-skin-creator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<code>Legal Disclaimer: This program is owned by SonicboomColt and Not-So Classic Games and has been uploaded with explicit permission to do so</code>
+Hosted on behalf of [SonicboomColt](https://github.com/sonicboomcolt)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cat Warfare Skin Creator is a simple tool that lets you change the 4 main textures of a cat model from [Cat Warfare](https://store.steampowered.com/app/923370). Please be aware that this repo does not contain the full game nor can this tool be used in the full game. It's just for experimentation
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pikakid98/cat-warfare-skin-creator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[{Learn More}](https://store.steampowered.com/app/923370/Cat_Warfare/) [{Download}](https://pikakid98.github.io/cat-warfare-skin-creator/download)
