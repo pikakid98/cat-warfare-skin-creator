@@ -6,4 +6,4 @@
 
 v1.0 Beta
 
-[Binary (Windows)](https://github.com/pikakid98/cat-warfare-skin-creator/releases/download/v1.0/Cat.Warfare.Skin.Creator.V1.0.0.Beta.7z) | Source Code Unavailable
+[Binary (Windows)](https://github.com/pikakid98/cat-warfare-skin-creator/releases/download/v1.0/Cat.Warfare.Skin.Creator.V1.0.0.Beta.7z) | Source Code (Unavailable)
