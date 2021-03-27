@@ -1,5 +1,3 @@
-## Cat Warfare Skin Creator
-
 #### [![home](https://user-images.githubusercontent.com/12392651/112509267-376ea980-8d88-11eb-87ca-216f63671e0a.png)](https://pikakid98.github.io/)
 
 [![learnmore](https://user-images.githubusercontent.com/12392651/112509318-448b9880-8d88-11eb-83fa-0735b4fe775e.png)](https://store.steampowered.com/app/923370) [![download](https://user-images.githubusercontent.com/12392651/112509327-46555c00-8d88-11eb-85cd-0a285c868d34.png)](https://pikakid98.github.io/cat-warfare-skin-creator/download)
